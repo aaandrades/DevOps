@@ -29,3 +29,12 @@ La vista de Sprint tiene cuatro vistas:
 - Backlog: Vista de Backlog y sus tareas asociadas (Vista más estructurada como lista).
 - Capacity: Permite asignar el esfuerzo que tiene determinado recurso en un sprint.
 - Analytics: Permite ver todas las métricas por usuarios, equipos, etc.
+
+# Repos
+Permite almacenar el código generado y ser cargado de diferentes formas. Funciona igual que github.
+
+# Pipelines
+
+# Test Plans
+
+# Artifacts 
